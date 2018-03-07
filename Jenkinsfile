@@ -1,14 +1,11 @@
 pipeline{
 	agent any
 	stages{
-		stage('Init'){
-			steps{
-				echo "testomng"
-			}
-		}
+		
 		stage('Build'){
 			steps{
 				echo "building"
+				mvn clean package
 			}
 		}
 		stage('Deploy'){
