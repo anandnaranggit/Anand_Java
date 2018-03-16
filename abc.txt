@@ -1,0 +1,11 @@
+seeing if this is in new
+now doing this in vi in master. I made a change in the master using vi, i did
+a checkout newb and it shows in newb. 
+Now making change in newb using vi and seeing if the change is seen in master
+yes it gets seen in master.
+-----------------------
+now going to newb and making changes, adding the file and then seeing if the change is seen in master
+------------------changes are still seen in master
+
+now agoing to newb and adding and committing the change, will then go to master to check if it gets updated.
+
