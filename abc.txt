@@ -10,4 +10,7 @@ now going to newb and making changes, adding the file and then seeing if the cha
 now agoing to newb and adding and committing the change, will then go to master to check if it gets updated.
 =================
 this example we are makign the change in master adding and committing the file in master and then will move to newb to see what happens
-
+============
+now getting the hold of this... now the tough one...
+making this change in newb committing.. will then make change in the same line on master and see how we can merge...
+------------0
