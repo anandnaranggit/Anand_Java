@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 changin in the local and i will stash this change...
 
+=======
+this hsould be the second stash
+>>>>>>> Stashed changes
